@@ -20,7 +20,8 @@ Add vue script in index file BEFORE your app script.
 
 Create a application instance with createApp function.
 
-```Vue.createApp({
+```
+Vue.createApp({
     data() {
         return {
             anArray: [],
